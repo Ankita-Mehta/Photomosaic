@@ -1,8 +1,8 @@
-# Photo Mosaic
+# Photomosaic
 
 ## Introduction
 
-This is a client-side application to convert an uploaded image into a photo mosaic.
+This is a client-side application to convert an uploaded image into a photomosaic. Photomosaic, a portmanteau of photo and mosaic, is a picture (usually a photograph) that has been divided into (usually equal sized) tiled sections, each of which is replaced with another photograph that matches the target photo. When viewed at low magnifications, the individual pixels appear as the primary image.
 
 ## How do I get set up?
 
