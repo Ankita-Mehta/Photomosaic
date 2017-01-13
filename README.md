@@ -54,6 +54,9 @@ npm run lint
 ## Landing Page
 ![image](http://i.imgur.com/QZc4QHS.png)
 
+## Before Processing
+![image](http://i.imgur.com/pYmSSil.png)
+
 ## After Processing
 ![image](http://i.imgur.com/acFm9Km.png)
 
