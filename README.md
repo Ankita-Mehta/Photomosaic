@@ -48,7 +48,6 @@ npm run lint
 │   └── constants            # Constant shared between server and client
 │   └── utils                # Utility methods used by the application
 ├── css                      # CSS used in the application
-├── resources                # Static resources such as images, original Canva README.md
 ```
 
 ## Landing Page
